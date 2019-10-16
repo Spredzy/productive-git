@@ -9,3 +9,8 @@ Hopefully those articles help readers gettings there.
 ## Collaboration
 
   * [Dealing with Github Pull Requests locally](src/collaboration/github-pr-locally.md)
+
+
+## Continuous Integration (CI) and Automation
+
+  * [Do not commit code that won't pass CI - Leverage git pre-commit hook](src/ciandautomation/pre-commit-hook-gating.md)
